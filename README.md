@@ -36,7 +36,7 @@
 
 ### 유튜브 MP3 변환을 쓰려면
 
-인터넷 연결과 **[Node.js LTS](https://nodejs.org/)**가 필요합니다. Node.js 설치 후 TubeAmp를 다시 실행하세요.
+인터넷 연결과 [Node.js LTS](https://nodejs.org/)가 필요합니다. Node.js 설치 후 TubeAmp를 다시 실행하세요.
 `YT` 버튼으로 변환 창을 열고 **주소 붙여넣기 → 음질·저장 위치 선택 → MP3로 변환** 순서로 사용합니다.
 온라인 가사 검색과 업데이트 확인에도 인터넷 연결이 필요합니다.
 
